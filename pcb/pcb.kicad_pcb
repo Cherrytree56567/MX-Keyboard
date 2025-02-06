@@ -6367,7 +6367,7 @@
 			(pintype "passive")
 			(uuid "0bd8f468-fa9f-4558-9def-2ba431065d05")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9563,7 +9563,7 @@
 			(pintype "passive")
 			(uuid "86713734-2d0e-483f-a883-944942c6100d")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12497,7 +12497,7 @@
 			(pintype "passive")
 			(uuid "3df8fff3-a317-44fe-9283-8814edc554d9")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18891,7 +18891,7 @@
 			(pintype "passive")
 			(uuid "6517d52a-275e-4430-ac7e-62a5b9f53524")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37206,7 +37206,7 @@
 			(pintype "passive")
 			(uuid "61003ad9-caf9-43b0-a9bd-5c0c6540e20a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37785,7 +37785,7 @@
 			(pintype "passive")
 			(uuid "99d9dc88-8120-47f6-b30c-298915cfcf3b")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_Vertical_Wuerth_434133025816.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
