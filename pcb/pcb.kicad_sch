@@ -8861,7 +8861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 168.91 115.57 0)
 			(effects
 				(font
@@ -10504,7 +10504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_6.25u"
 			(at 191.77 115.57 0)
 			(effects
 				(font
@@ -11280,7 +11280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.50u"
 			(at 157.48 77.47 0)
 			(effects
 				(font
@@ -12866,7 +12866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.50u"
 			(at 157.48 58.42 0)
 			(effects
 				(font
@@ -13868,7 +13868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.75u"
 			(at 306.07 39.37 0)
 			(effects
 				(font
@@ -14272,7 +14272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 214.63 115.57 0)
 			(effects
 				(font
@@ -16055,7 +16055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_2.75u"
 			(at 283.21 96.52 0)
 			(effects
 				(font
@@ -17173,7 +17173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 180.34 115.57 0)
 			(effects
 				(font
@@ -17660,7 +17660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_2.00u"
 			(at 157.48 96.52 0)
 			(effects
 				(font
@@ -17728,7 +17728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 306.07 58.42 0)
 			(effects
 				(font
@@ -18571,7 +18571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_2.25u"
 			(at 294.64 77.47 0)
 			(effects
 				(font
@@ -19199,7 +19199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 157.48 115.57 0)
 			(effects
 				(font
@@ -19376,7 +19376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 203.2 115.57 0)
 			(effects
 				(font
@@ -19532,7 +19532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.25u"
 			(at 237.49 115.57 0)
 			(effects
 				(font
