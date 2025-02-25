@@ -1,6 +1,10 @@
 # MX Keyboard
 A cool Keyboard made in KiCad, OnShape and Blender
 
+## Info
+ - 0.25mm Tolerance
+ - Black Case
+
 ## Features
  - USB C Hub
  - RP2040
