@@ -11,7 +11,7 @@ A cool Keyboard made in KiCad, OnShape and Blender
  - RP2040
  - 61 Keys
  - Cherry MX Switches
- - Mill Max Hot Swappable Switches
+ - Kailh Hotswap Sockets
 
 ## Bill of Materials
 > [!NOTE]
@@ -50,6 +50,6 @@ A cool Keyboard made in KiCad, OnShape and Blender
  Total Price: AUD$136.84
 ![image](https://github.com/user-attachments/assets/1d596d81-42f5-4330-834d-2fec6f1d2484)
 ![image](https://github.com/user-attachments/assets/5bfa8c81-7bbb-4232-b9cd-3217f70589d2)
-![image](https://github.com/user-attachments/assets/0bb49dcf-064d-49fc-9f68-46ff5ee30bf5)
+![image](https://github.com/user-attachments/assets/19dcb513-0514-44de-80b4-f4542f777d0d)
 ![image](https://github.com/user-attachments/assets/29507283-e1cb-43ca-90c2-2fa88ef2d1fa)
 .
