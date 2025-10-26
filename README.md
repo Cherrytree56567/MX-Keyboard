@@ -48,7 +48,7 @@ A cool Keyboard made in KiCad, OnShape and Blender
 - [PCB $17.60](https://jlcpcb.com) x1
 
  Total Price: AUD$136.84
-![image](https://github.com/user-attachments/assets/1d596d81-42f5-4330-834d-2fec6f1d2484)
+![image](https://github.com/user-attachments/assets/b53d2695-aa8c-47de-9e57-b3391207c969)
 ![image](https://github.com/user-attachments/assets/5bfa8c81-7bbb-4232-b9cd-3217f70589d2)
 ![image](https://github.com/user-attachments/assets/19dcb513-0514-44de-80b4-f4542f777d0d)
 ![image](https://github.com/user-attachments/assets/29507283-e1cb-43ca-90c2-2fa88ef2d1fa)
