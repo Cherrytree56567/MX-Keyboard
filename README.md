@@ -1,5 +1,5 @@
 # MX Keyboard
-A cool Keyboard made in KiCad, OnShape and Blender
+A Keyboard I made for Hackboard. It has a built-in USB C Hub and has Hotswap support.
 ![gif](https://hc-cdn.hel1.your-objectstorage.com/s/v3/feea19395a16cd392c0e3264e8fdf9a931bc45ca_0001-0180.gif)
 
 ## Info
@@ -13,7 +13,54 @@ A cool Keyboard made in KiCad, OnShape and Blender
  - Cherry MX Switches
  - Kailh Hotswap Sockets
 
-## Bill of Materials
+# CAD
+Here are some photos of the CAD 3D Print. It uses M2 Threads that are 6mm long on the top (gray part) and a 1.6mm M2 nut on the bottom plate (blue part) to raise the pcb.
+I made the USB-C input and output separate so that they won't be confused and I've used Durock V3 Stabilizers for the spacebar, enter and shift keys. When I made my mini
+keyboard last time, I made the holes too tight, so when I soldered the keys, if it was slightly tilted, it wouldn't fit in the case. This time, I added a 1.5mm padding.
+<br><br>
+<img width="1209" height="530" alt="image" src="https://github.com/user-attachments/assets/fb829d36-876a-43fd-81bc-06c7143a02aa" />
+<img width="1385" height="616" alt="image" src="https://github.com/user-attachments/assets/db5551cc-8c99-444b-9005-4645d3813d0e" />
+<img width="1385" height="584" alt="image" src="https://github.com/user-attachments/assets/33879247-234f-4813-80f1-108fb9d9eaf8" />
+<img width="1381" height="582" alt="image" src="https://github.com/user-attachments/assets/65520dfd-f17c-4dca-b1aa-639e3feccfe5" />
+<img width="1391" height="603" alt="image" src="https://github.com/user-attachments/assets/a4a17000-f346-4b09-9f8a-0ff0f1c4a65e" />
+<img width="1414" height="107" alt="image" src="https://github.com/user-attachments/assets/6e8445e5-855e-4d90-b14f-cdc5fa09e285" />
+Here is a photo of pcb and the case put together without the keys.<br><br>
+<img width="1599" height="205" alt="image" src="https://github.com/user-attachments/assets/24ccd92f-b4c2-4aff-9768-0d1aa29bf78f" />
+
+# PCB
+Here are some photos of the PCB. I've made most of the main components to sit on the top, to prevent electromagnetic interference, and I've also uses ground fills.
+The diodes and Kailh Hotswap sockets are placed under the board. The Git Repo was pretty messy because I had multiple revisions of the pcb and the case and I didn't
+update some parts like the readme. It should be organised now. The wiring was pretty hard becuase it was my first time making a keyboard. I made a mini keyboard, but
+there were some more things to worry about when making a full keyboard. I've used USB 2.0 because dealing with impedences was pretty difficult, and I didn't need a
+USB 3.0 port anyway. If you want to take an upclose look at the pcb or the schematic, you can look the pdf's on the root of this repo.
+<img width="1682" height="690" alt="image" src="https://github.com/user-attachments/assets/5ff668a7-8595-4cee-9ab9-26315224e7c9" />
+<img width="1636" height="646" alt="image" src="https://github.com/user-attachments/assets/d95d703f-b393-4f6c-b14f-346ca70b3765" />
+<img width="1590" height="638" alt="image" src="https://github.com/user-attachments/assets/ec551927-fae3-4d8a-92a9-addcd5af26ea" />
+<img width="3307" height="2339" alt="pcb_schematic-1" src="https://github.com/user-attachments/assets/8649428c-4ad0-4e85-9810-cb219eaf400f" />
+
+# Firmware
+Unfortunatly, I don't know if the code works, because I haven't gotten the PCB yet, but to install it:
+ - Install Circuit Python
+   - [Download CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/)
+   - Plug the Keyboard in
+   - Drag the .uf2 into the RP2040 Drive
+ - Install KMK
+   - [Download KMK](https://github.com/KMKfw/kmk_firmware/archive/refs/heads/master.zip)
+   - Unzip it and copy the `kmk` folder from `kmk_firmware-main` to the CIRCUITPY Drive
+ - Install Firmware
+   - Copy the Code from [src/main.py](https://github.com/Cherrytree56567/MX-Keyboard/raw/refs/heads/main/src/main.py)
+   - Create a new file in the CIRCUITPY Drive called `code.py` and paste it in.
+
+# Building
+1. Print out the 3D Print and order the PCB
+2. Solder all the parts on the PCB
+3. Add the Kailh SMD Keys
+4. Add the Durock V3 Stabilizers
+5. Push the threads and nuts into the PCB using a Soldering Iron
+6. Place the PCB in the case and screw it in
+7. Install Firmware
+
+# Bill of Materials
 > [!NOTE]
 > All Prices are in AUD
 
@@ -50,9 +97,5 @@ A cool Keyboard made in KiCad, OnShape and Blender
 |N/A                                         |Mouser Shipping                             |1       |Mouser_Shipping        |https://au.mouser.com                                     |$24      |
 |N/A                                         |AliExpress Shipping                         |1       |Aliexpress_Shipping    |https://www.aliexpress.com                                |$1.59    |
 
- Total Price: AUD$136.84
-![image](https://github.com/user-attachments/assets/b53d2695-aa8c-47de-9e57-b3391207c969)
-![image](https://github.com/user-attachments/assets/5bfa8c81-7bbb-4232-b9cd-3217f70589d2)
-![image](https://github.com/user-attachments/assets/19dcb513-0514-44de-80b4-f4542f777d0d)
-![image](https://github.com/user-attachments/assets/29507283-e1cb-43ca-90c2-2fa88ef2d1fa)
-.
+Total Price: AUD$141.16
+
