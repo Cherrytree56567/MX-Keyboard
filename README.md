@@ -33,9 +33,8 @@ The diodes and Kailh Hotswap sockets are placed under the board. The Git Repo wa
 update some parts like the readme. It should be organised now. The wiring was pretty hard becuase it was my first time making a keyboard. I made a mini keyboard, but
 there were some more things to worry about when making a full keyboard. I've used USB 2.0 because dealing with impedences was pretty difficult, and I didn't need a
 USB 3.0 port anyway. If you want to take an upclose look at the pcb or the schematic, you can look the pdf's on the root of this repo.
-<img width="1682" height="690" alt="image" src="https://github.com/user-attachments/assets/5ff668a7-8595-4cee-9ab9-26315224e7c9" />
-<img width="1636" height="646" alt="image" src="https://github.com/user-attachments/assets/d95d703f-b393-4f6c-b14f-346ca70b3765" />
-<img width="1590" height="638" alt="image" src="https://github.com/user-attachments/assets/ec551927-fae3-4d8a-92a9-addcd5af26ea" />
+<img width="1648" height="657" alt="image" src="https://github.com/user-attachments/assets/2adc1d1b-0d6b-450a-a0f7-73d6375743c6" />
+<img width="1593" height="636" alt="image" src="https://github.com/user-attachments/assets/e82c6222-2cba-4c5f-912d-2eb98e614f07" />
 <img width="2000" height="1414" alt="Untitled" src="https://github.com/user-attachments/assets/6bb7031e-b7f0-4179-9371-3bbde32e5885" />
 <img width="3307" height="2339" alt="pcb_schematic-1" src="https://github.com/user-attachments/assets/8649428c-4ad0-4e85-9810-cb219eaf400f" />
 
