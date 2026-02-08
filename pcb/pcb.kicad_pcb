@@ -70548,6 +70548,18 @@
 			(justify right bottom)
 		)
 	)
+	(gr_text "Made by @CherryTree56567"
+		(at 339.924088 109.94937 0)
+		(layer "F.SilkS")
+		(uuid "17a50a44-394d-413e-bc12-ed2883911bd4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 105.212 120.3475)
 		(end 105.37075 120.18875)
