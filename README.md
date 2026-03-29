@@ -70,36 +70,36 @@ Here is the JLC Ordering Screen
 
 |Designator                                  |Footprint                                   |Quantity|Value                  |URL                                                       |Price_AUD|
 |--------------------------------------------|--------------------------------------------|--------|-----------------------|----------------------------------------------------------|---------|
-|C1, C2                                      |0402                                        |2       |15p                    |https://au.mouser.com/ProductDetail/581-04025A150G        |$1.82    |
-|C10, C8                                     |0402                                        |2       |1u                     |https://au.mouser.com/ProductDetail/963-MAASL105CD7105MF  |$0.51    |
-|C11, C12, C13, C14, C15, C16, C5, C6, C7, C9|0402                                        |10      |100n                   |https://au.mouser.com/ProductDetail/603-CC402KRX7R9BB104  |$0.27    |
-|C23, C24                                    |0805                                        |2       |10uF                   |https://au.mouser.com/ProductDetail/81-GRM21BR61C106KE15  |$0.35    |
-|C25                                         |0805                                        |1       |100nF                  |https://au.mouser.com/ProductDetail/581-KAF21KR72A104KL   |$0.29    |
-|C3, C4                                      |0805                                        |2       |10u                    |https://au.mouser.com/ProductDetail/81-GRM21BR71A106KA3K  |$0.42    |
-|D1, D...                                    |Diode_DO-35                                 |61      |Diode                  |https://au.mouser.com/ProductDetail/512-1N4148            |$3.78    |
-|D34                                         |1206                                        |1       |SD1206T020S1R0         |https://au.mouser.com/ProductDetail/581-SD1206T020S1R0    |$0.62    |
-|J1, J2, J4, J5                              |USB_C_Receptacle_HRO_TYPE-C-31-M-12         |1       |USB_C_Receptacle_USB2.0|https://www.aliexpress.com/item/1005003285152827.html?mp=1|$2.10    |
-|R1, R2                                      |0805                                        |2       |5.1K                   |https://au.mouser.com/ProductDetail/667-ERA-2AEB512X      |$0.32    |
-|R14, R15, R16, R17, R18, R19                |0805                                        |6       |56K                    |https://au.mouser.com/ProductDetail/667-ERA-6ARB563V      |$3.84    |
-|R3, R5                                      |0402                                        |2       |1k                     |https://au.mouser.com/ProductDetail/754-RG1005V-102-WT1   |$6.28    |
+|C1, C2                                      |0402                                        |2       |15p                    |https://au.mouser.com/ProductDetail/581-04025A150G        |$1.69    |
+|C10, C8                                     |0402                                        |2       |1u                     |https://au.mouser.com/ProductDetail/963-MAASL105CD7105MF  |$0.44    |
+|C11, C12, C13, C14, C15, C16, C5, C6, C7, C9|0402                                        |10      |100n                   |https://au.mouser.com/ProductDetail/603-CC402KRX7R9BB104  |$0.16    |
+|C23, C24                                    |0805                                        |2       |10uF                   |https://au.mouser.com/ProductDetail/81-GRM21BR61C106KE15  |$0.33    |
+|C25                                         |0805                                        |1       |100nF                  |https://au.mouser.com/ProductDetail/581-KAF21KR72A104KL   |$0.28    |
+|C3, C4                                      |0805                                        |2       |10u                    |https://au.mouser.com/ProductDetail/81-GRM21BR71A106KA3K  |$0.33    |
+|D1, D...                                    |Diode_DO-35                                 |61      |Diode                  |https://au.mouser.com/ProductDetail/Diotec-Semiconductor/1N4148            |$3.78    |
+|D34                                         |1206                                        |1       |SD1206T020S1R0         |https://au.mouser.com/ProductDetail/581-SD1206T020S1R0    |$0.58    |
+|J1, J2, J4, J5                              |USB_C_Receptacle_HRO_TYPE-C-31-M-12         |1       |USB_C_Receptacle_USB2.0|https://www.aliexpress.com/item/1005003285152827.html?mp=1|$5.86    |
+|R1, R2                                      |0805                                        |2       |5.1K                   |https://au.mouser.com/ProductDetail/667-ERA-2AEB512X      |$0.30    |
+|R14, R15, R16, R17, R18, R19                |0805                                        |6       |56K                    |https://au.mouser.com/ProductDetail/667-ERA-6ARB563V      |$3.55    |
+|R3, R5                                      |0402                                        |2       |1k                     |https://au.mouser.com/ProductDetail/754-RG1005V-102-WT1   |$7.42    |
 |R4                                          |0402                                        |1       |DNF                    |                                                          |$0       |
-|R6, R7                                      |0402                                        |2       |27                     |https://www.aliexpress.com/item/1005005433144951.html?mp=1|$0.40    |
-|S1                                          |MX_PCB_1.00u                                |65      |Key                    |https://www.aliexpress.com/item/1005003944834891.html?mp=1|$19.10   |
-|SW1                                         |SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|1       |SW_Push                |https://au.mouser.com/ProductDetail/710-434133025816      |$0.88    |
-|U1                                          |SOIC-16_4.55x10.3mm_P1.27mm                 |1       |SL2.1A                 |https://www.aliexpress.com/item/1005005552905296.html?mp=1|$1.89    |
-|U2                                          |SOT-223-3_TabPin2                           |1       |NCP1117-3.3_SOT223     |https://au.mouser.com/ProductDetail/863-NCP1117ST33T3G    |$0.93    |
-|U3                                          |SOIC-8_5.23x5.23mm_P1.27mm                  |1       |W25Q128JVS             |https://au.mouser.com/ProductDetail/454-W25Q128JVSIQTR    |$2.96    |
-|U4                                          |RP2040-QFN-56                               |1       |RP2040                 |https://au.mouser.com/ProductDetail/358-SC09147           |$1.28    |
-|Y1                                          |Crystal_SMD_3225-4Pin_3.2x2.5mm             |1       |ABM8-272-T3            |https://au.mouser.com/ProductDetail/815-ABM8-272-T3       |$1.04    |
-|N/A                                         |Standoff                                    |4       |M2X6                   |https://au.mouser.com/ProductDetail/710-970060244         |$1.86    |
-|N/A                                         |Nut                                         |12      |Nut                    |https://au.mouser.com/ProductDetail/855-M80-2430000B      |$3.46    |
+|R6, R7                                      |0402                                        |2       |27                     |https://www.aliexpress.com/item/1005005433144951.html?mp=1|$3.61    |
+|S1                                          |MX_PCB_1.00u                                |65      |Key                    |https://www.aliexpress.com/item/1005003944834891.html?mp=1|$29.99   |
+|SW1                                         |SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|1       |SW_Push                |https://au.mouser.com/ProductDetail/710-434133025816      |$0.81    |
+|U1                                          |SOIC-16_4.55x10.3mm_P1.27mm                 |1       |SL2.1A                 |https://www.aliexpress.com/item/1005005552905296.html?mp=1|$3.46    |
+|U2                                          |SOT-223-3_TabPin2                           |1       |NCP1117-3.3_SOT223     |https://au.mouser.com/ProductDetail/863-NCP1117ST33T3G    |$0.86    |
+|U3                                          |SOIC-8_5.23x5.23mm_P1.27mm                  |1       |W25Q128JVS             |https://www.aliexpress.com/item/1005008022185475.html     |$7.20    |
+|U4                                          |RP2040-QFN-56                               |1       |RP2040                 |https://au.mouser.com/ProductDetail/358-SC09147           |$1.18    |
+|Y1                                          |Crystal_SMD_3225-4Pin_3.2x2.5mm             |1       |ABM8-272-T3            |https://au.mouser.com/ProductDetail/815-ABM8-272-T3       |$0.80    |
+|N/A                                         |Standoff                                    |4       |M2X6                   |https://au.mouser.com/ProductDetail/710-970060244         |$1.54    |
+|N/A                                         |Nut                                         |12      |Nut                    |https://au.mouser.com/ProductDetail/855-M80-2430000B      |$3.19    |
 |N/A                                         |Screw                                       |5       |M2_10mm                |https://www.ebay.com.au/itm/363744921549?var=632961986863 |$3.27    |
-|N/A                                         |Socket                                      |70      |Kailh                  |https://www.aliexpress.com/item/1005007225352311.html?mp=1|$3.76    |
-|N/A                                         |Stabilizer                                  |1       |Durock_V3_Stabilizers  |https://www.aliexpress.com/item/1005006628741999.html?mp=1|$22.39   |
-|N/A                                         |Key_Caps                                    |1       |Black_Line_131         |https://www.aliexpress.com/item/1005007016258336.html?mp=1|$25.98   |
-|N/A                                         |PCB                                         |1       |JLC_PCB                |https://jlcpcb.com/                                       |$17.60   |
+|N/A                                         |Socket                                      |70      |Kailh                  |https://www.aliexpress.com/item/1005007225352311.html?mp=1|$6.79    |
+|N/A                                         |Stabilizer                                  |1       |Durock_V3_Stabilizers  |https://www.aliexpress.com/item/1005006628741999.html?mp=1|$23.19   |
+|N/A                                         |Key_Caps                                    |1       |Black_Line_131         |https://www.aliexpress.com/item/1005007016258336.html?mp=1|$26.46   |
+|N/A                                         |PCB                                         |1       |JLC_PCB                |https://jlcpcb.com/                                       |$26.69   |
 |N/A                                         |Mouser Shipping                             |1       |Mouser_Shipping        |https://au.mouser.com                                     |$24      |
-|N/A                                         |AliExpress Shipping                         |1       |Aliexpress_Shipping    |https://www.aliexpress.com                                |$1.59    |
-|N/A                                         |JLCPCB Shipping                             |1       |JLCPCB_Shipping        |https://www.jlcpcb.com                                    |$11.47   |
+|N/A                                         |JLCPCB Shipping                             |1       |JLCPCB_Shipping        |https://www.jlcpcb.com                                    |$18.47   |
 
-Total Price: AUD$164.46
+Total Price: AUD$206.23
+Total USD Price: US$141.97
