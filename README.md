@@ -87,20 +87,19 @@ TODO: DO PRIZES
 |R4                                          |0402                                        |1       |DNF                    |                                                          |$0       |
 |R6, R7                                      |0402                                        |2       |27                     |https://www.aliexpress.com/item/1005005433144951.html?mp=1|$3.61    |
 |S1                                          |MX_PCB_1.00u                                |65      |Key                    |https://www.aliexpress.com/item/1005003944834891.html?mp=1|$29.99   |
-|SW1                                         |SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|1       |SW_Push                |https://au.mouser.com/ProductDetail/710-434133025816      |$0.81    |
+|SW1                                         |SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|1       |SW_Push                |https://www.lcsc.com/product-detail/C221897.html          |$0.81    |
 |U1                                          |SOIC-16_4.55x10.3mm_P1.27mm                 |1       |SL2.1A                 |https://www.aliexpress.com/item/1005005552905296.html?mp=1|$3.46    |
-|U2                                          |SOT-223-3_TabPin2                           |1       |NCP1117-3.3_SOT223     |https://au.mouser.com/ProductDetail/863-NCP1117ST33T3G    |$0.86    |
+|U2                                          |SOT-223-3_TabPin2                           |1       |NCP1117-3.3_SOT223     |https://www.lcsc.com/product-detail/C26537.html           |$0.86    |
 |U3                                          |SOIC-8_5.23x5.23mm_P1.27mm                  |1       |W25Q128JVS             |https://www.aliexpress.com/item/1005008022185475.html     |$7.20    |
-|U4                                          |RP2040-QFN-56                               |1       |RP2040                 |https://au.mouser.com/ProductDetail/358-SC09147           |$1.18    |
-|Y1                                          |Crystal_SMD_3225-4Pin_3.2x2.5mm             |1       |ABM8-272-T3            |https://au.mouser.com/ProductDetail/815-ABM8-272-T3       |$0.80    |
-|N/A                                         |Standoff                                    |4       |M2X6                   |https://au.mouser.com/ProductDetail/710-970060244         |$1.54    |
-|N/A                                         |Nut                                         |12      |Nut                    |https://au.mouser.com/ProductDetail/855-M80-2430000B      |$3.19    |
+|U4                                          |RP2040-QFN-56                               |1       |RP2040                 |https://www.lcsc.com/product-detail/C2040.html            |$1.18    |
+|Y1                                          |Crystal_SMD_3225-4Pin_3.2x2.5mm             |1       |ABM8-272-T3            |https://www.lcsc.com/product-detail/C20625731.html        |$0.80    |
+|N/A                                         |Standoff                                    |4       |M2X6                   |https://www.aliexpress.com/item/1005008551732587.html     |$1.54    |
+|N/A                                         |Nut                                         |12      |Nut                    |https://www.aliexpress.com/item/1005008755211193.html     |$3.19    |
 |N/A                                         |Screw                                       |5       |M2_10mm                |https://www.ebay.com.au/itm/363744921549?var=632961986863 |$3.27    |
 |N/A                                         |Socket                                      |70      |Kailh                  |https://www.aliexpress.com/item/1005007225352311.html?mp=1|$6.79    |
 |N/A                                         |Stabilizer                                  |1       |Durock_V3_Stabilizers  |https://www.aliexpress.com/item/1005006628741999.html?mp=1|$23.19   |
 |N/A                                         |Key_Caps                                    |1       |Black_Line_131         |https://www.aliexpress.com/item/1005007016258336.html?mp=1|$26.46   |
 |N/A                                         |PCB                                         |1       |JLC_PCB                |https://jlcpcb.com/                                       |$26.69   |
-|N/A                                         |Mouser Shipping                             |1       |Mouser_Shipping        |https://au.mouser.com                                     |$24      |
 |N/A                                         |JLCPCB Shipping                             |1       |JLCPCB_Shipping        |https://www.jlcpcb.com                                    |$18.47   |
 
 Total Price: AUD$206.23
