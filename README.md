@@ -68,20 +68,22 @@ Here is the JLC Ordering Screen
 > [!NOTE]
 > All Prices are in AUD
 
+TODO: DO PRIZES
+
 |Designator                                  |Footprint                                   |Quantity|Value                  |URL                                                       |Price_AUD|
 |--------------------------------------------|--------------------------------------------|--------|-----------------------|----------------------------------------------------------|---------|
-|C1, C2                                      |0402                                        |2       |15p                    |https://au.mouser.com/ProductDetail/581-04025A150G        |$1.69    |
-|C10, C8                                     |0402                                        |2       |1u                     |https://au.mouser.com/ProductDetail/963-MAASL105CD7105MF  |$0.44    |
-|C11, C12, C13, C14, C15, C16, C5, C6, C7, C9|0402                                        |10      |100n                   |https://au.mouser.com/ProductDetail/603-CC402KRX7R9BB104  |$0.16    |
-|C23, C24                                    |0805                                        |2       |10uF                   |https://au.mouser.com/ProductDetail/81-GRM21BR61C106KE15  |$0.33    |
-|C25                                         |0805                                        |1       |100nF                  |https://au.mouser.com/ProductDetail/581-KAF21KR72A104KL   |$0.28    |
-|C3, C4                                      |0805                                        |2       |10u                    |https://au.mouser.com/ProductDetail/81-GRM21BR71A106KA3K  |$0.33    |
-|D1, D...                                    |Diode_DO-35                                 |61      |Diode                  |https://au.mouser.com/ProductDetail/Diotec-Semiconductor/1N4148            |$3.78    |
-|D34                                         |1206                                        |1       |SD1206T020S1R0         |https://au.mouser.com/ProductDetail/581-SD1206T020S1R0    |$0.58    |
+|C1, C2                                      |0402                                        |2       |15p                    |https://www.lcsc.com/product-detail/C86285.html           |$1.69    |
+|C10, C8                                     |0402                                        |2       |1u                     |https://www.lcsc.com/product-detail/C5669105.html         |$0.44    |
+|C11, C12, C13, C14, C15, C16, C5, C6, C7, C9|0402                                        |10      |100n                   |https://www.lcsc.com/product-detail/C131394.html          |$0.16    |
+|C23, C24                                    |0805                                        |2       |10uF                   |https://www.lcsc.com/product-detail/C18185764.html        |$0.33    |
+|C25                                         |0805                                        |1       |100nF                  |https://www.lcsc.com/product-detail/C53084519.html        |$0.28    |
+|C3, C4                                      |0805                                        |2       |10u                    |https://www.lcsc.com/product-detail/C2167686.html         |$0.33    |
+|D1, D...                                    |Diode_DO-35                                 |61      |Diode                  |https://www.lcsc.com/product-detail/C84410.html           |$3.78    |
+|D34                                         |1206                                        |1       |MBR120VLSFT1G          |https://www.lcsc.com/product-detail/C223608.html          |$0.58    |
 |J1, J2, J4, J5                              |USB_C_Receptacle_HRO_TYPE-C-31-M-12         |1       |USB_C_Receptacle_USB2.0|https://www.aliexpress.com/item/1005003285152827.html?mp=1|$5.86    |
-|R1, R2                                      |0805                                        |2       |5.1K                   |https://au.mouser.com/ProductDetail/667-ERA-2AEB512X      |$0.30    |
-|R14, R15, R16, R17, R18, R19                |0805                                        |6       |56K                    |https://au.mouser.com/ProductDetail/667-ERA-6ARB563V      |$3.55    |
-|R3, R5                                      |0402                                        |2       |1k                     |https://au.mouser.com/ProductDetail/754-RG1005V-102-WT1   |$7.42    |
+|R1, R2                                      |0805                                        |2       |5.1K                   |https://www.lcsc.com/product-detail/C490833.html          |$0.30    |
+|R14, R15, R16, R17, R18, R19                |0805                                        |6       |56K                    |https://www.lcsc.com/product-detail/C21571499.html        |$3.55    |
+|R3, R5                                      |0402                                        |2       |1k                     |https://www.lcsc.com/product-detail/C852624.html          |$7.42    |
 |R4                                          |0402                                        |1       |DNF                    |                                                          |$0       |
 |R6, R7                                      |0402                                        |2       |27                     |https://www.aliexpress.com/item/1005005433144951.html?mp=1|$3.61    |
 |S1                                          |MX_PCB_1.00u                                |65      |Key                    |https://www.aliexpress.com/item/1005003944834891.html?mp=1|$29.99   |
