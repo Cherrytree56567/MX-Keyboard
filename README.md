@@ -66,41 +66,40 @@ Here is the JLC Ordering Screen
 
 # Bill of Materials
 > [!NOTE]
-> All Prices are in AUD
+> All Prices are in USD
 
-TODO: DO PRIZES
-
-|Designator                                  |Footprint                                   |Quantity|Value                  |URL                                                       |Price_AUD|
+|Designator                                  |Footprint                                   |Quantity|Value                  |URL                                                       |Price_USD|
 |--------------------------------------------|--------------------------------------------|--------|-----------------------|----------------------------------------------------------|---------|
-|C1, C2                                      |0402                                        |2       |15p                    |https://www.lcsc.com/product-detail/C86285.html           |$1.69    |
-|C10, C8                                     |0402                                        |2       |1u                     |https://www.lcsc.com/product-detail/C5669105.html         |$0.44    |
-|C11, C12, C13, C14, C15, C16, C5, C6, C7, C9|0402                                        |10      |100n                   |https://www.lcsc.com/product-detail/C131394.html          |$0.16    |
-|C23, C24                                    |0805                                        |2       |10uF                   |https://www.lcsc.com/product-detail/C18185764.html        |$0.33    |
-|C25                                         |0805                                        |1       |100nF                  |https://www.lcsc.com/product-detail/C53084519.html        |$0.28    |
-|C3, C4                                      |0805                                        |2       |10u                    |https://www.lcsc.com/product-detail/C2167686.html         |$0.33    |
-|D1, D...                                    |Diode_DO-35                                 |61      |Diode                  |https://www.lcsc.com/product-detail/C84410.html           |$3.78    |
-|D34                                         |1206                                        |1       |MBR120VLSFT1G          |https://www.lcsc.com/product-detail/C223608.html          |$0.58    |
-|J1, J2, J4, J5                              |USB_C_Receptacle_HRO_TYPE-C-31-M-12         |1       |USB_C_Receptacle_USB2.0|https://www.aliexpress.com/item/1005003285152827.html?mp=1|$5.86    |
-|R1, R2                                      |0805                                        |2       |5.1K                   |https://www.lcsc.com/product-detail/C490833.html          |$0.30    |
-|R14, R15, R16, R17, R18, R19                |0805                                        |6       |56K                    |https://www.lcsc.com/product-detail/C21571499.html        |$3.55    |
-|R3, R5                                      |0402                                        |2       |1k                     |https://www.lcsc.com/product-detail/C852624.html          |$7.42    |
+|C1, C2                                      |0402                                        |2       |15p                    |https://www.lcsc.com/product-detail/C86285.html           |$0.36    |
+|C10, C8                                     |0402                                        |2       |1u                     |https://www.lcsc.com/product-detail/C435415.html          |$0.73    |
+|C11, C12, C13, C14, C15, C16, C5, C6, C7, C9|0402                                        |10      |100n                   |https://www.lcsc.com/product-detail/C131394.html          |$0.29    |
+|C23, C24                                    |0805                                        |2       |10uF                   |https://www.lcsc.com/product-detail/C18185764.html        |$0.39    |
+|C25                                         |0805                                        |1       |100nF                  |https://www.lcsc.com/product-detail/C53084519.html        |$0.29    |
+|C3, C4                                      |0805                                        |2       |10u                    |https://www.lcsc.com/product-detail/C2167686.html         |$0.61    |
+|D1, D...                                    |Diode_DO-35                                 |61      |Diode                  |https://www.lcsc.com/product-detail/C84410.html           |$1.72    |
+|D34                                         |1206                                        |1       |MBR120VLSFT1G          |https://www.lcsc.com/product-detail/C223608.html          |$0.70    |
+|J1, J2, J4, J5                              |USB_C_Receptacle_HRO_TYPE-C-31-M-12         |1       |USB_C_Receptacle_USB2.0|https://www.aliexpress.com/item/1005003285152827.html?mp=1|$4.01    |
+|R1, R2                                      |0805                                        |2       |5.1K                   |https://www.lcsc.com/product-detail/C490833.html          |$0.76    |
+|R14, R15, R16, R17, R18, R19                |0805                                        |6       |56K                    |https://www.lcsc.com/product-detail/C21571499.html        |$0.52    |
+|R3, R5                                      |0402                                        |2       |1k                     |https://www.lcsc.com/product-detail/C852624.html          |$0.86    |
 |R4                                          |0402                                        |1       |DNF                    |                                                          |$0       |
-|R6, R7                                      |0402                                        |2       |27                     |https://www.aliexpress.com/item/1005005433144951.html?mp=1|$3.61    |
-|S1                                          |MX_PCB_1.00u                                |65      |Key                    |https://www.aliexpress.com/item/1005003944834891.html?mp=1|$29.99   |
-|SW1                                         |SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|1       |SW_Push                |https://www.lcsc.com/product-detail/C221897.html          |$0.81    |
-|U1                                          |SOIC-16_4.55x10.3mm_P1.27mm                 |1       |SL2.1A                 |https://www.aliexpress.com/item/1005005552905296.html?mp=1|$3.46    |
-|U2                                          |SOT-223-3_TabPin2                           |1       |NCP1117-3.3_SOT223     |https://www.lcsc.com/product-detail/C26537.html           |$0.86    |
-|U3                                          |SOIC-8_5.23x5.23mm_P1.27mm                  |1       |W25Q128JVS             |https://www.aliexpress.com/item/1005008022185475.html     |$7.20    |
-|U4                                          |RP2040-QFN-56                               |1       |RP2040                 |https://www.lcsc.com/product-detail/C2040.html            |$1.18    |
-|Y1                                          |Crystal_SMD_3225-4Pin_3.2x2.5mm             |1       |ABM8-272-T3            |https://www.lcsc.com/product-detail/C20625731.html        |$0.80    |
-|N/A                                         |Standoff                                    |4       |M2X6                   |https://www.aliexpress.com/item/1005008551732587.html     |$1.54    |
-|N/A                                         |Nut                                         |12      |Nut                    |https://www.aliexpress.com/item/1005008755211193.html     |$3.19    |
-|N/A                                         |Screw                                       |5       |M2_10mm                |https://www.ebay.com.au/itm/363744921549?var=632961986863 |$3.27    |
-|N/A                                         |Socket                                      |70      |Kailh                  |https://www.aliexpress.com/item/1005007225352311.html?mp=1|$6.79    |
-|N/A                                         |Stabilizer                                  |1       |Durock_V3_Stabilizers  |https://www.aliexpress.com/item/1005006628741999.html?mp=1|$23.19   |
-|N/A                                         |Key_Caps                                    |1       |Black_Line_131         |https://www.aliexpress.com/item/1005007016258336.html?mp=1|$26.46   |
-|N/A                                         |PCB                                         |1       |JLC_PCB                |https://jlcpcb.com/                                       |$26.69   |
-|N/A                                         |JLCPCB Shipping                             |1       |JLCPCB_Shipping        |https://www.jlcpcb.com                                    |$18.47   |
+|R6, R7                                      |0402                                        |2       |27                     |https://www.aliexpress.com/item/1005005433144951.html?mp=1|$2.46    |
+|S1                                          |MX_PCB_1.00u                                |65      |Key                    |https://www.aliexpress.com/item/1005003944834891.html?mp=1|$19.06   |
+|SW1                                         |SW_Push_1P1T_NO_Vertical_Wuerth_434133025816|1       |SW_Push                |https://www.lcsc.com/product-detail/C221897.html          |$0.49    |
+|U1                                          |SOIC-16_4.55x10.3mm_P1.27mm                 |1       |SL2.1A                 |https://www.aliexpress.com/item/1005005552905296.html?mp=1|$2.33    |
+|U2                                          |SOT-223-3_TabPin2                           |1       |NCP1117-3.3_SOT223     |https://www.lcsc.com/product-detail/C26537.html           |$1.31    |
+|U3                                          |SOIC-8_5.23x5.23mm_P1.27mm                  |1       |W25Q128JVS             |https://www.aliexpress.com/item/1005008022185475.html     |$4.88    |
+|U4                                          |RP2040-QFN-56                               |1       |RP2040                 |https://www.lcsc.com/product-detail/C2040.html            |$0.95    |
+|Y1                                          |Crystal_SMD_3225-4Pin_3.2x2.5mm             |1       |ABM8-272-T3            |https://www.lcsc.com/product-detail/C20625731.html        |$1.45    |
+|N/A                                         |Standoff                                    |4       |M2X6                   |https://www.aliexpress.com/item/1005008551732587.html     |$2.04    |
+|N/A                                         |Nut                                         |12      |Nut                    |https://www.aliexpress.com/item/1005008755211193.html     |$3.04    |
+|N/A                                         |Screw                                       |5       |M2_10mm                |https://www.ebay.com.au/itm/363744921549?var=632961986863 |$2.26    |
+|N/A                                         |Socket                                      |70      |Kailh                  |https://www.aliexpress.com/item/1005007225352311.html?mp=1|$0.99    |
+|N/A                                         |Stabilizer                                  |1       |Durock_V3_Stabilizers  |https://www.aliexpress.com/item/1005006628741999.html?mp=1|$15.56   |
+|N/A                                         |Key_Caps                                    |1       |Black_Line_131         |https://www.aliexpress.com/item/1005007016258336.html?mp=1|$24.62   |
+|N/A                                         |PCB                                         |1       |JLC_PCB                |https://jlcpcb.com/                                       |$18.40   |
+|N/A                                         |JLCPCB Shipping                             |1       |JLCPCB_Shipping        |https://www.jlcpcb.com                                    |$12.73   |
+|N/A                                         |Aliexpress Tax                              |1       |ALIEXPRESS_TAX         |https://www.aliexpress.com                                |$8.26    |
+|N/A                                         |LCSC Shipping                               |1       |LCSC_Shipping          |https://www.lcsc.com                                      |$12.81   |
 
-Total Price: AUD$206.23
-Total USD Price: US$141.97
+Total Price: US$142.65
